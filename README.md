@@ -44,9 +44,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img width="47%" src="https://github-readme-stats.vercel.app/api?username=MOHITMAHARA&show_icons=true&theme=tokyonight&hide_border=true" alt="mohit7-7" /> </p>
-<p align="center"> <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHITMAHARA&theme=tokyonight&hide_border=true" alt="mohit7-7" /> </p>
-<p align="center"><img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit7-7&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="mohit7-7" /></p>
+<!-- <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api?username=MOHITMAHARA&show_icons=true&theme=tokyonight&hide_border=true" alt="mohit7-7" /> </p> -->
+<p align="center"> <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHITMAHARA&theme=tokyonight&hide_border=true" alt="mohit7-7" /> </p>
+<p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit7-7&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="mohit7-7" /></p>
 
 ---
 
@@ -122,7 +122,7 @@
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MOHITMAHARA/MOHITMAHARA/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mohit7-7/mohit7-7/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
