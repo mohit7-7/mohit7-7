@@ -58,8 +58,8 @@
       <h4 align="center">🌾 Plant Disease Detection</h4>
       <p>Built an ML-powered system using computer vision to detect plant diseases and support farmers by improving crop yield.</p>
       <p align="center">
-        <a href="https://github.com/MOHITMAHARA/Plant-Disease-Detection">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOHITMAHARA&repo=Plant-Disease-Detection&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/mohit7-7/Plant-Disease-Detection">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit7-7&repo=Plant-Disease-Detection&theme=tokyonight&hide_border=true" />
         </a>
       </p>
     </td>
@@ -67,8 +67,8 @@
       <h4 align="center">🛩️ Flight Route Optimisation</h4>
       <p>Developed a system to optimize air travel paths based on cost, time, and fuel using DSA concepts in C++.</p>
       <p align="center">
-        <a href="https://github.com/MOHITMAHARA/Flight-Route-Optimisation-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOHITMAHARA&repo=Flight-Route-Optimisation-System&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/mohit7-7/Flight-Route-Optimisation-System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit7-7&repo=Flight-Route-Optimisation-System&theme=tokyonight&hide_border=true" />
         </a>
       </p>
     </td>
@@ -79,8 +79,8 @@
       <h4 align="center">📦 Stock Management System</h4>
       <p>A Java-based desktop application for managing stock, inventory, and purchases efficiently for small businesses.</p>
       <p align="center">
-        <a href="https://github.com/MOHITMAHARA/Stock-Management-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOHITMAHARA&repo=Stock-Management-System&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/mohit7-7/Stock-Management-System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit7-7&repo=Stock-Management-System&theme=tokyonight&hide_border=true" />
         </a>
       </p>
     </td>
@@ -88,8 +88,8 @@
       <h4 align="center">📝 MERN Blogmaster</h4>
       <p>Developed a full-stack blogging platform using the MERN stack with rich-text editing and user authentication.</p>
       <p align="center">
-        <a href="https://github.com/MOHITMAHARA/mern_blogmaster">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOHITMAHARA&repo=mern_blogmaster&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/mohit7-7/mern_blogmaster">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit7-7&repo=mern_blogmaster&theme=tokyonight&hide_border=true" />
         </a>
       </p>
     </td>
@@ -100,8 +100,8 @@
       <h4 align="center">📘 Leetcode C++ Practice</h4>
       <p>Regularly solving algorithm and DSA problems in C++. Repository with clean code, comments, and problem statements.</p>
       <p align="center">
-        <a href="https://github.com/MOHITMAHARA/Leetcode">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOHITMAHARA&repo=Leetcode&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/mohit7-7/Leetcode">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit7-7&repo=Leetcode&theme=tokyonight&hide_border=true" />
         </a>
       </p>
     </td>
