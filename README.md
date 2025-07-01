@@ -19,7 +19,8 @@
 ### 🧠 About Me
 
 - 🎓 B.Tech CSE @ Graphic Era Hill University  
-- 🚀 Always exploring new tech and building real-world solutions  
+- 🚀 Always exploring new tech and building real-world solutions
+- 🔭 I’m currently learning **DSA** and working on **React based projects** 
 - 📫 Reach me: `maharak206@gmail.com`  
 
 ---
