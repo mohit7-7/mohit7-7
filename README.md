@@ -45,7 +45,7 @@
 
 ### 📊 GitHub Stats
 
-<!-- <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api?username=MOHITMAHARA&show_icons=true&theme=tokyonight&hide_border=true" alt="mohit7-7" /> </p> -->
+ <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api?username=MOHITMAHARA&show_icons=true&theme=tokyonight&hide_border=true" alt="mohit7-7" /> </p>
 <p align="center"> <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit7-7&theme=tokyonight&hide_border=true" alt="mohit7-7" /> </p>
 <p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit7-7&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="mohit7-7" /></p>
 
